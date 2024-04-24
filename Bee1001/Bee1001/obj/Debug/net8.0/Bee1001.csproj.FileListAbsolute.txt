@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Documents\Curso C#\Desafios Propostos - Beecrowd\Bee1001\Bee1001\bin\Debug\net8.0\Bee1001.exe
+C:\Users\Gabriel\Documents\Curso C#\Desafios Propostos - Beecrowd\Bee1001\Bee1001\bin\Debug\net8.0\Bee1001.deps.json
+C:\Users\Gabriel\Documents\Curso C#\Desafios Propostos - Beecrowd\Bee1001\Bee1001\bin\Debug\net8.0\Bee1001.runtimeconfig.json
+C:\Users\Gabriel\Documents\Curso C#\Desafios Propostos - Beecrowd\Bee1001\Bee1001\bin\Debug\net8.0\Bee1001.dll
+C:\Users\Gabriel\Documents\Curso C#\Desafios Propostos - Beecrowd\Bee1001\Bee1001\bin\Debug\net8.0\Bee1001.pdb
+C:\Users\Gabriel\Documents\Curso C#\Desafios Propostos - Beecrowd\Bee1001\Bee1001\obj\Debug\net8.0\Bee1001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Curso C#\Desafios Propostos - Beecrowd\Bee1001\Bee1001\obj\Debug\net8.0\Bee1001.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Desafios Propostos - Beecrowd\Bee1001\Bee1001\obj\Debug\net8.0\Bee1001.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Curso C#\Desafios Propostos - Beecrowd\Bee1001\Bee1001\obj\Debug\net8.0\Bee1001.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\Desafios Propostos - Beecrowd\Bee1001\Bee1001\obj\Debug\net8.0\Bee1001.dll
+C:\Users\Gabriel\Documents\Curso C#\Desafios Propostos - Beecrowd\Bee1001\Bee1001\obj\Debug\net8.0\refint\Bee1001.dll
+C:\Users\Gabriel\Documents\Curso C#\Desafios Propostos - Beecrowd\Bee1001\Bee1001\obj\Debug\net8.0\Bee1001.pdb
+C:\Users\Gabriel\Documents\Curso C#\Desafios Propostos - Beecrowd\Bee1001\Bee1001\obj\Debug\net8.0\Bee1001.genruntimeconfig.cache
+C:\Users\Gabriel\Documents\Curso C#\Desafios Propostos - Beecrowd\Bee1001\Bee1001\obj\Debug\net8.0\ref\Bee1001.dll
